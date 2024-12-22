@@ -15,4 +15,8 @@ Rooting gives users the ability to:
 However, rooting can also cause a number of issues, including: Voiding the warranty, Damaging the device, Losing data, Allowing access for malware, and Rendering the phone useless. 
 Rooting is generally not recommended unless you have significant technical knowledge. 
 ----------------------------------------------------------------------------------------
-step 1- turn on bluetooth and connect to your pc then go to 
+step 1- turn on bluetooth and connect to your pc then go to https://sites.google.com/view/gabbroot/home
+enter your serial number of your watch.
+
+
+step 2-
